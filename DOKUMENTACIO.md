@@ -2,7 +2,7 @@
 
 ## 1. Projekt Áttekintés
 
-Az **Event Registration** egy Laravel-alapú REST API alkalmazás, amely eseményrегisztráció és felhasználókezelés funkciókat biztosít. A szystem támogatja az eseményadminisztráció, felhasználói regisztrációt, és az eseményekre való feliratkozást.
+Az **Event Registration** egy Laravel-alapú REST API alkalmazás, amely eseményrегisztráció és felhasználókezelés funkciókat biztosít. A system támogatja az eseményadminisztráció, felhasználói regisztrációt, és az eseményekre való feliratkozást.
 
 ---
 
