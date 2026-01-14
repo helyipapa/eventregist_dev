@@ -1,4 +1,4 @@
-# Event Registration API - Komprehenzív Dokumentáció
+# Event Registration API -  Dokumentáció
 
 ## 1. Projekt Áttekintés
 
