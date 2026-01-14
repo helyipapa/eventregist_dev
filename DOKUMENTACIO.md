@@ -575,7 +575,7 @@ DELETE /events/{event}/users/{user}
 
 ---
 
-## 8. Modul Controllers és Végpontok - Részletes Implementáció
+## 8. Modul Controllers és Végpontok
 
 ### 8.1 AuthController
 
@@ -794,7 +794,7 @@ php artisan test --group=auth
 
 ---
 
-## 10. API Végpontok Teljes Táblázata
+## 10. API Végpontok
 
 | HTTP Metódus | Végpont | Leírás | Auth | Admin |
 |---|---|---|---|---|
@@ -822,7 +822,7 @@ php artisan test --group=auth
 
 ---
 
-## 11. Felhasználói Permissions Mátrix
+## 11. Felhasználói Permissions
 
 | Művelet | Guest | Felhasználó | Admin |
 |---------|-------|------------|-------|
